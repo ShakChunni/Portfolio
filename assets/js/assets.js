@@ -5,6 +5,10 @@ const assets = () => {
   return (
     <View>
       <Text>assets</Text>
+      <Text>assets</Text>
+      <Text>assets</Text>
+      <Text>assets</Text>
+      <Text>assets</Text>
     </View>
   )
 }

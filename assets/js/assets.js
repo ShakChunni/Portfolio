@@ -9,6 +9,21 @@ const assets = () => {
       <Text>assets</Text>
       <Text>assets</Text>
       <Text>assets</Text>
+      <Text>assets</Text>
+      <Text>assets</Text>
+      <Text>assets</Text>
+      <Text>assets</Text>
+      <Text>assets</Text>
+      <Text>assets</Text>
+      <Text>assets</Text>
+      <Text>assets</Text>
+      <Text>assets</Text>
+      <Text>assets</Text>
+      <Text>assets</Text>
+      <Text>assets</Text>
+      <Text>assets</Text>
+      <Text>assets</Text>
+      <Text>assets</Text>
     </View>
   )
 }
